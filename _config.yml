@@ -1,1 +1,13 @@
+title: WinSCP
+description: (V000-20190828) WinSCP
+show_downloads: false
+google_analytics:
+
+theme: jekyll-theme-hacker
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-midnight
+
+# Fixing the "No GitHub API authentication could be found" ??
+github: [metadata]
+
 theme: jekyll-theme-hacker

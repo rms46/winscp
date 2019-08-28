@@ -1,6 +1,8 @@
 title: WinSCP
-description: (V001-20190828) WinSCP
+description: (V002-20190828) WinSCP
 show_downloads: false
+baseurl:            "/winscp"
+url:                "https://rms46.github.io"
 google_analytics:
 
 theme: jekyll-theme-hacker
